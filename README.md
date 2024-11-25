@@ -1,6 +1,6 @@
 ## Seja bem vindo(a) 👋
 <div>
-  <img src = "https://i.pinimg.com/originals/fb/c2/0f/fbc20f26cb09d634a50aaf1576838be4.gif" alt="Metabee de boas">
+  <img src = "https://i.pinimg.com/originals/fb/c2/0f/fbc20f26cb09d634a50aaf1576838be4.gif"  height  = 150px alt="Metabee de boas">
 </div>
 <!--
 **DevPedroHenrique007/DevPedroHenrique007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
