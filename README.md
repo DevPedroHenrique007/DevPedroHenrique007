@@ -4,7 +4,7 @@
 
 ###
 
-<p align= "left">linha</p>
+<div></div>
 
 <div>
   <img src = "https://i.pinimg.com/originals/fb/c2/0f/fbc20f26cb09d634a50aaf1576838be4.gif"  height  = 150px alt="Metabee de boas">
