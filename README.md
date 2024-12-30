@@ -14,6 +14,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.h2/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedro.pepe889@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/walmir-monteiro-neto-a36806196/](https://www.linkedin.com/in/pedro-henrique-02510a261/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-02510a261/)
 <!--
 **DevPedroHenrique007/DevPedroHenrique007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
