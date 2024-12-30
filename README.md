@@ -1,6 +1,5 @@
 ## Seja bem vindo(a) 👋
 
-<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
